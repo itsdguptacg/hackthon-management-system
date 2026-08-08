@@ -1,1 +1,1 @@
-# hackthon-management-system
+# hackthon-management-jainam
