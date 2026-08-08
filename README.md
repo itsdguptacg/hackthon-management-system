@@ -1,1 +1,1 @@
-# hackthon-management-judge
+# hackthon-management-jainam
