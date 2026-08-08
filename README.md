@@ -1,2 +1,2 @@
 # hackthon-management-system
-hjmneodshnfjkokwsenf
+pal
