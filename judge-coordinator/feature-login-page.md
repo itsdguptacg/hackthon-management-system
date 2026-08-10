@@ -1,6 +1,0 @@
-- username
-- password
-
----
-
-**forgot password**
