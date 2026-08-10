@@ -1,1 +1,5 @@
 - whoever wants to sponsor then contcat 9857576xxx
+- we are have 3 forms of sponsors
+- first only name
+- second a video
+- third a banner
